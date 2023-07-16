@@ -44,9 +44,6 @@ Ecommerce Website
 # Admin-Dashboard Orders List
 ![2023-07-07 (26)](https://github.com/tanishkaanand/Mrigaang-Store/assets/77928058/6c180663-b02b-4ec4-b001-80810f5cbabc)
 
-# ABOUT-US
-![2023-07-07 (28)](https://github.com/tanishkaanand/Mrigaang-Store/assets/77928058/be365200-7fb4-4ede-a548-5d3f941874b4)
-
 # CONTACT-US
 ![2023-07-07 (30)](https://github.com/tanishkaanand/Mrigaang-Store/assets/77928058/abffce7e-4828-45ff-a4ad-6dc6df262c1c)
 
